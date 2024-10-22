@@ -9,7 +9,7 @@ git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git”
 chmod +x retropie_setup.sh
 sudo ./retropie_setup.sh”
 4. The screen below should be displayed. Select the “Basic install” option and wait until complete.
-
+![Install Screen](https://cloud.githubusercontent.com/assets/10035308/16218285/f06f3ba8-3738-11e6-9ccc-be601172713b.png)
 5. Upon completion, you can install additional packages by selecting the “Manage packages” option and downloading specific packages.  
 
 
